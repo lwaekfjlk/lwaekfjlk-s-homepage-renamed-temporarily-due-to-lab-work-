@@ -108,13 +108,13 @@ analytics:
 # Site Author
 author:
   name             : "Haofei Yu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Student at ZJU"
+  avatar           : “/images/bio-photo.png” # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A CS student in CKC Honors College,Zhejiang University"
   location         : "Hangzhou, China"
   email            : "3180102099@zju.edu.cn"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "3180102099@zju.edu.cn"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
