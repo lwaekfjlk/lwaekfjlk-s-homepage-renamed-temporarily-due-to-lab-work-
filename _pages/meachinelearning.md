@@ -4,7 +4,7 @@ Permalink: /machine-learning/
 Title: "Machine Learning Posts by Tags"
 Author_profile:true
 Header:
-	image:"/images/machinelearning.png"
+	image:"/images/machinelearning.jpg"
 ---
 
 {% include base_path %}
