@@ -111,8 +111,9 @@ author:
   avatar           : “/images/bio-photo.png” # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A CS student in CKC, ZJU"
   location         : "Hangzhou, China"
-  email            : "3180102099@zju.edu.cn"
   github           : "lwaekfjlk"
+  email            : "3180102099@zju.edu.cn"
+
   links:
     - label: "Email"
       icon: "mailto:3180102099@zju.edu.cn"
