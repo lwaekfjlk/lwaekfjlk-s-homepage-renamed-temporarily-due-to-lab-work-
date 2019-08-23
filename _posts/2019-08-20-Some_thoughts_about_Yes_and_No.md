@@ -1,3 +1,4 @@
+---
 title: "Some thoughts about Yes and No"
 author_profile: true
 permalink: /2019-08-20-Some_thoughts_about_Yes_and_No/
@@ -7,6 +8,9 @@ mathjax: "true"
 header:
     image: "/imgs/thoughts2.jpg"
 excerpt: "group theory, logic, insights"
+---
+
+
 
 Everybody knows **Yes** and **No**. Here are how it works:
 
