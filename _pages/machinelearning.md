@@ -1,9 +1,9 @@
 ---
-Layout: archive
-Permalink: /machine-learning/
-Title: "Machine Learning Posts by Tags"
-Author_profile:true
-Header:
+layout: archive
+permalink: /machine-learning/
+title: "Machine Learning Posts by Tags"
+author_profile:true
+header:
 	image:"/images/machinelearning.jpg"
 ---
 
