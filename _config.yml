@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Haofei Yu"
-  avatar           : "/imgs/avatar.jpg"
-  bio              : "A CS student in CKC Honors College, ZJU"
+  avatar           : "/imgs/avatar.png"
+  bio              : "CS sophomore in ZJU"
   location         : "Hangzhou, China"
   email            : "3180102099@zju.edu.cn"
   links:
