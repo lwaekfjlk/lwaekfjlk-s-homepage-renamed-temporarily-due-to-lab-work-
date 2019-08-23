@@ -20,7 +20,7 @@ title                    : "Haofei Yu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haofei Yu"
-description              : "Student"
+description              : "A personal test website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,28 +108,26 @@ analytics:
 # Site Author
 author:
   name             : "Haofei Yu"
-  avatar           : "/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A CS student in CKC, ZJU"
+  avatar           : "/imgs/avatar.jpg"
+  bio              : "A CS student in CKC Honors College, ZJU"
   location         : "Hangzhou, China"
-  github           : "lwaekfjlk"
   email            : "3180102099@zju.edu.cn"
-
   links:
     - label: "Email"
-      icon: "mailto:3180102099@zju.edu.cn"
+      icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "https://github.com/lwaekfjlk"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lwaekjflk"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -233,6 +231,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -241,6 +240,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 
@@ -294,6 +294,7 @@ defaults:
       comments: # true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
@@ -301,3 +302,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

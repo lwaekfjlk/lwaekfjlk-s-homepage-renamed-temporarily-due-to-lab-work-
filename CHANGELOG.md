@@ -1,8 +1,7 @@
-## [4.16.6](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.6)
+## Unreleased
 
 ### Enhancements
 
-- Relax Jekyll dependency to allow for version 4.0.
 - Add missing Spanish localized UI text strings. [#2229](https://github.com/mmistakes/minimal-mistakes/pull/2229)
 - Allow Markdown in author bio. [#2215](https://github.com/mmistakes/minimal-mistakes/pull/2215)
 
