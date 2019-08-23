@@ -111,11 +111,10 @@ author:
   avatar           : “/images/bio-photo.png” # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A CS student in CKC, ZJU"
   location         : "Hangzhou, China"
-  email            : "3180102099@zju.edu.cn"
-  GitHub           : "lwaekfjlk"
+  email            : 
   links:
     - label: "Email"
-      icon: "3180102099@zju.edu.cn"
+      icon: "mailto:3180102099@zju.edu.cn"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -127,7 +126,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "lwaekfjlk"
+      icon: "https://github.com/lwaekfjlk"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
