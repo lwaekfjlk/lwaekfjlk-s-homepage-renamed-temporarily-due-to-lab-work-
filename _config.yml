@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Haofei Yu"
-  avatar           : "/imgs/avatar.png"
-  bio              : "CS sophomore in ZJU"
+  avatar           : "/imgs/avatar.jpg"
+  bio              : "A CS student in CKC Honors College, ZJU"
   location         : "Hangzhou, China"
   email            : "3180102099@zju.edu.cn"
   links:
@@ -121,6 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
