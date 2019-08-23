@@ -111,7 +111,8 @@ author:
   avatar           : “/images/bio-photo.png” # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A CS student in CKC, ZJU"
   location         : "Hangzhou, China"
-  email            : 
+  email            : "3180102099@zju.edu.cn"
+  github           : "lwaekfjlk"
   links:
     - label: "Email"
       icon: "mailto:3180102099@zju.edu.cn"
@@ -292,14 +293,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _posts
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
