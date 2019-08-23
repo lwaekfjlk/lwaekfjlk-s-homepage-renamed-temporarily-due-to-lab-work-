@@ -10,4 +10,3 @@ header:
 excerpt: "hello,hello"
 ---
 
-hello
